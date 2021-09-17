@@ -16,3 +16,5 @@ and getting the graph was fairly easy. A photo is attached below.
 
 
 ![image](https://user-images.githubusercontent.com/86809648/133538111-bb279fff-789a-4ec7-9d41-022bf3a9b264.png)
+
+A good use for this system is to detect the wifi signals from passing cars over time. For example if the raspberry pi was run for longer periods of time we could collect and report traffic data upt year long scales. This info could then be used to figure out peak traffic times and help city planners figure out good times for road repairs so it isn't during a busy time period, without needing someone to count the traffic going by.  
